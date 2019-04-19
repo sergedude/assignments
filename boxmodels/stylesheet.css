@@ -1,0 +1,42 @@
+* {
+    margin: 0; 
+    box-sizing: border-box;
+    font-size: 0;
+}
+
+.box-container {
+   
+    background: slateblue;
+    height: 700pt;
+    width: 100%;
+    margin: 10pt;
+    }
+
+.box {
+    width: 22.5%;
+    height: 100%;
+    margin: 5pt;
+    display: inline-block;
+    background: tomato;
+
+}
+
+.one {
+    background: purple;
+    height: 25%;
+}
+
+.two {
+    background: whitesmoke;
+    height: 25%;
+}
+
+.tre {
+    background: greenyellow;
+    height: 25%;
+}
+
+.fur {
+    background: orange;
+    height: 25%;
+}

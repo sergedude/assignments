@@ -1,0 +1,20 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+header {
+    column-span: all;
+    font-size: 50pt;
+
+}
+div {
+    display: inline-block;
+    column-count: 3;
+    text-align: justify;
+    font-size: 25pt;
+    
+}
+
+
+

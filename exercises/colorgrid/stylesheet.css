@@ -1,0 +1,42 @@
+*{
+    font-size: 0;
+    box-sizing: border-box;
+    margin: 0 auto;
+    align-content: center;
+}
+.box-container{
+    padding: 20pt;
+    box-sizing: border-box;
+    background: white;
+    height: 640pt;
+    width: 480pt;
+}
+.box{
+    display: inline-block;
+    height: 100pt;
+}
+.one{
+    background: #F5C6D6;
+    width: 100%;
+    border: solid 5pt white;
+}
+.two{
+    background: #EE2E84;
+    width: 25%;
+    border: solid 5pt white;
+}
+.tre{
+    background: #85CFD8;
+    width: 50%;
+    border: solid 5pt white;
+}
+.fur{
+    background: #8DC63F;
+    width: 75%;
+    border: solid 5pt white;
+}
+.fur1{
+    background: #E76E34;
+    width: 25%;
+    border: solid 5pt white;    
+}
